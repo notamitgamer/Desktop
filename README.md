@@ -1,2 +1,2 @@
-## Download the files from the release, and do all yourself.
+## Download the files from the releases, and do all yourself.
 ---
